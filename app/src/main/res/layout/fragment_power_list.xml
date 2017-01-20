@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cmpickle.basicfragments.PowerListFragment">
+
+    <RadioGroup
+        android:id="@+id/powerSelectGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/fire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fire"
+            android:checked="true"/>
+        <RadioButton
+            android:id="@+id/water"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/water"/>
+        <RadioButton
+            android:id="@+id/earth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/earth"/>
+        <RadioButton
+            android:id="@+id/air"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/air"/>
+    </RadioGroup>
+</FrameLayout>

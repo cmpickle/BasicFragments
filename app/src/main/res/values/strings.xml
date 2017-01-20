@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicFragments</string>
+    <string name="split_view">Split View</string>
+    <string name="separate_view">Separate View</string>
+    <string name="title_activity_split_view">SplitViewActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fire">Fire</string>
+    <string name="water">water</string>
+    <string name="earth">Earth</string>
+    <string name="air">Air</string>
+</resources>

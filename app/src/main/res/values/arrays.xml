@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powerDescriptions">
+        <item name="fireDescription">Fire is a raging element that will consume the enemy.</item>
+        <item name="waterDescription">Water is a flowing element that can wear away at the enemy.</item>
+        <item name="earthDescription">Earth is a solid element that can crush the enemy.</item>
+        <item name="airDescription">Air is a piercing element that can strike the enemy.</item>
+    </string-array>
+</resources>
